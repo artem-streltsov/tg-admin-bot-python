@@ -1,0 +1,3 @@
+BOT_TOKEN=your_bot_token
+ADMIN_CHAT_ID=admin_chat_id
+DATABASE_PATH=path_to_database/filename.db
